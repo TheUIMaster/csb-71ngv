@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://theuimaster.github.io/csb-71ngv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://theuimaster.github.io/csb-71ngv/static/js/main.7593ece2.chunk.js",
+    "main.js.map": "https://theuimaster.github.io/csb-71ngv/static/js/main.7593ece2.chunk.js.map",
+    "runtime-main.js": "https://theuimaster.github.io/csb-71ngv/static/js/runtime-main.5ad138d9.js",
+    "runtime-main.js.map": "https://theuimaster.github.io/csb-71ngv/static/js/runtime-main.5ad138d9.js.map",
+    "static/js/2.63da0719.chunk.js": "https://theuimaster.github.io/csb-71ngv/static/js/2.63da0719.chunk.js",
+    "static/js/2.63da0719.chunk.js.map": "https://theuimaster.github.io/csb-71ngv/static/js/2.63da0719.chunk.js.map",
+    "index.html": "https://theuimaster.github.io/csb-71ngv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://theuimaster.github.io/csb-71ngv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.63da0719.chunk.js.LICENSE.txt": "https://theuimaster.github.io/csb-71ngv/static/js/2.63da0719.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ad138d9.js",
+    "static/js/2.63da0719.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7593ece2.chunk.js"
+  ]
+}
